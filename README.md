@@ -4,7 +4,8 @@ A classic sliding tile puzzle game made with **Python** and **Pygame**. Rearrang
 
 ---
 
-![Tom chasing Jerry](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/images/78611519/1ad955ba-daeb-43a1-9a1f-639ab01b2fe7/d2601da98d72c463b33ddd9af3a34a49.jpg)
+<img width="696" height="435" alt="image" src="https://github.com/user-attachments/assets/9fa4c698-0281-4c16-a974-bc2a3bf18e15" />
+
 
 
 ## Features
