@@ -5,7 +5,8 @@ A classic sliding tile puzzle game made with **Python** and **Pygame**. Rearrang
 ---
 
 <img width="696" height="435" alt="image" src="https://github.com/user-attachments/assets/9fa4c698-0281-4c16-a974-bc2a3bf18e15" />
-<img width="1842" height="1051" alt="image" src="https://github.com/user-attachments/assets/2e04f7ac-b961-40c7-b1a2-a6cd156ad75e" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/53933a10-9be1-427d-8a0f-879e10b35247" />
+
 
 
 
